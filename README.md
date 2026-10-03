@@ -1,16 +1,26 @@
 # ah-ip-builder
 
 
+
+
 Agent skill for building a structured personal brand knowledge base.
+
+
 
 
 ## Usage
 
 
+
+
 Install this folder as an agent skill and trigger it using the commands described in `SKILL.md`.
 
 
+
+
 ## Files
+
+
 
 
 - `README.md`
@@ -21,4 +31,6 @@ Install this folder as an agent skill and trigger it using the commands describe
 - `Step4-商业设计.md`
 - `Step5-生长配置.md`
 
-合作：AI产品测评 / 企业AI培训 / 内容获客。微信 Zephyr136。X：https://x.com/Astronaut_1216
+
+合作推广：受众在跨境出海、独立开发、AI视频、模型测评。这些方向的商单可以找我。微信 Zephyr136。X：https://x.com/Astronaut_1216
+
